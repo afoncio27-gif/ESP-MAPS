@@ -1,0 +1,10 @@
+{
+  "name": "ESP - MAPAS",
+  "description": "Sistema completo para gestão de territórios e designações de campo, permitindo o acompanhamento de endereços, visitas e designações hierárquicas em tempo real para congregações e grupos de idiomas.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
